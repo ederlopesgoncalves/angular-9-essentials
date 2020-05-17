@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Caneta Azul",
+      "price": "5.00",
+      "id": 1
+    },
+    {
+      "name": "Notebook",
+      "price": "1200.99",
+      "id": 2
+    },
+    {
+      "name": "Monitor",
+      "price": "400.00",
+      "id": 3
+    },
+    {
+      "name": "Mouse",
+      "price": "30.04",
+      "id": 4
+    },
+    {
+      "name": "Impressora",
+      "price": "250.99",
+      "id": 5
+    }
+  ]
+}
