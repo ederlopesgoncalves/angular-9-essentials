@@ -1,4 +1,4 @@
-# 🚀 Angular 9 - CRUD
+# 🚀 Angular 9 - Essentials - CRUD
 
 This project was developed during the course [cod3r courses](https://www.cod3r.com.br/courses/take/angular-9-essencial)
 
