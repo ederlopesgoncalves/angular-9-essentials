@@ -1,4 +1,4 @@
-# 🚀 Angular 9 - CRUD
+# 🚀 Frontend - Angular 9
 
 ## 💻 Frontend
 
